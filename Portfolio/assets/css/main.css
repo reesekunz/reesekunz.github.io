@@ -4106,5 +4106,20 @@ input, select, textarea {
 		#footer .inner {
 			padding: 2em 1.5em 0.1em 1.5em ;
 		}
+	}
+
+
+	.hidden {display: none;}
+
+	.footercenter { display: flex;
+					flex-direction: row;
+					justify-content: center;
+					align-items: center;
+
+					font-size: 12px;
+			
 
 	}
+
+	.hiddenmenu {display: none;}
+	
